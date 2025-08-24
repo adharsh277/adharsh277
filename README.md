@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adharsh277/](https://www.linkedin.com/in/adharsh277/)
 
+- 👨‍💻 All of my projects are available at [https://github.com/adharsh277](https://github.com/adharsh277)
+
 - ⚡ Fun fact **I speak German too (A1 Goethe certified) 🇩🇪**
 
 <h3 align="left">Connect with me:</h3>
