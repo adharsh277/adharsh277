@@ -15,8 +15,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adharsh277](https://github.com/adharsh277)
-
 - 💬 Ask me about **Cloud Computing, DevOps Practices, Docker, CI/CD, and Azure Services ,OCI, AWS**
 
 - 📫 How to reach me **adharshu999@gmail.com**
