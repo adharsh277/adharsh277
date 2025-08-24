@@ -1,4 +1,5 @@
-[![MasterHead](https://raw.githubusercontent.com/adharsh277/adharsh277/main/assets/devops-masterhead.jpg)](https://github.com/adharsh277)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/adharsh277)
+
 
 <h1 align="center">Hi 👋, I'm Adharsh U</h1>
 <h3 align="center">🚀 Cloud Engineer | DevOps Practitioner | Passionate Engineer from India</h3>
