@@ -39,4 +39,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact" alt="adharsh277" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en" alt="adharsh277" /></p>
-
