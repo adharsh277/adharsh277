@@ -120,17 +120,13 @@
 
 <!-- GitHub Stats & Top Languages -->
 
-<table>
-  <tr>
-    <!-- Top Languages on the left -->
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&langs_count=10&cache_seconds=300" alt="Top Languages" />
-    </td>
+<!-- Top Languages and GitHub Stats side by side -->
+<p float="left">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&langs_count=10&cache_seconds=300" width="48%" />
 
-    <!-- GitHub Stats on the right -->
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=radical&cache_seconds=300" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=radical&cache_seconds=300" width="48%" />
+</p>
+
 
