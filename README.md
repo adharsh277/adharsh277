@@ -124,7 +124,7 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&cache_seconds=300" alt="GitHub Stats" />
 </p>
 
