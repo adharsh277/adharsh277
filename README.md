@@ -123,10 +123,11 @@
 <!-- Top Languages and GitHub Stats side by side -->
 <p float="left">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&langs_count=10&cache_seconds=300" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical&cache_seconds=300" width="48%" />
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=radical&cache_seconds=300" width="48%" />
 </p>
+
 
 
