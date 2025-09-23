@@ -126,7 +126,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical&cache_seconds=300" width="48%" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=radical&cache_seconds=300" width="50%" Height="625" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=radical&cache_seconds=300" width="50%" Height="725" />
 </p>
 
 
