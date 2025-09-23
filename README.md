@@ -73,9 +73,7 @@
   <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="loki" width="40" height="40"/> 
   </a> 
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power bi" width="40" height="40"/> 
-  </a> 
+
 </p>
 
 <!-- Row 2 -->
@@ -113,12 +111,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+    <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power bi" width="40" height="40"/> 
   </a> 
- <a href="https://fluxcd.io/" target="_blank" rel="noreferrer">
-    <img src="https://fluxcd.io/images/flux-logo.png" alt="flux" width="40" height="40"/>
-  </a>
+
 </p>
 
 <!-- GitHub Stats & Top Languages -->
