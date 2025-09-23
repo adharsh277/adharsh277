@@ -116,8 +116,8 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a> 
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_Cloud_Logo.svg/512px-Google_Cloud_Logo.svg.png" alt="google-cloud" width="40" height="40"/>
+ <a href="https://fluxcd.io/" target="_blank" rel="noreferrer">
+    <img src="https://fluxcd.io/images/flux-logo.png" alt="flux" width="40" height="40"/>
   </a>
 </p>
 
