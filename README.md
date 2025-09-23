@@ -118,7 +118,14 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact" alt="adharsh277" /></p>
+<!-- Top Languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&cache_seconds=300" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en" alt="adharsh277" /></p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&cache_seconds=300" alt="GitHub Stats" />
+</p>
+
 
