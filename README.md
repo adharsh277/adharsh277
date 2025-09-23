@@ -116,8 +116,8 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a> 
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Databricks_logo.png" alt="databricks" width="40" height="40"/>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Azure_DevOps_Logo.svg" alt="azure-devops" width="40" height="40"/>
   </a>
 </p>
 
