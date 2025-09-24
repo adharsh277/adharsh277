@@ -28,9 +28,7 @@
 
 ## 🏆 GitHub Achievements & Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=adharsh277&theme=dark&row=1&column=8&margin-w=10&margin-h=10
-&no-frame=true
-&title=MultiLanguage,Repositories,Commits,Stars,PullRequest,Experience,Followers,Issues" />
+![trophy](https://github-profile-trophy.vercel.app/?username=adharsh277&theme=onedark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
