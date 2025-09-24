@@ -30,10 +30,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=adharsh277&theme=onedark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adharsh277&theme=dark&hide_border=true)
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
