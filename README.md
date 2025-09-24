@@ -25,6 +25,17 @@
 - ⚡ Fun fact **I speak German too (A1 Goethe certified) 🇩🇪**
 
 
+
+## 🏆 GitHub Achievements & Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=adharsh277&theme=onedark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adharsh277&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&theme=radical)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsadharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsadharsh" height="30" width="40" /></a>
