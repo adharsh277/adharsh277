@@ -68,5 +68,12 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
   <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=dark&cache_seconds=300" width="48%" />
 </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adharsh277&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adharsh277&icon=0&color=3)](https://visitcount.itsvg.in)
+
+
 
 
