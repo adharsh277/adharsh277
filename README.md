@@ -1,5 +1,14 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/adharsh277)
-<h1 align="center">Hello There I am Adharsh Unnikrishnan</h1>
+<h1> About </h1>
+
+<p>
+Hey there! I am Adharsh, a Computer Science undergrad with a strong passion for technology and innovation. 👨‍💻  
+I am fascinated by the intersection of cloud computing, DevOps, AI/ML, and cybersecurity, and I am on an exciting journey to make a meaningful impact in the tech world.  
+Driven by curiosity and the desire to explore the limitless potential of emerging technologies, I actively contribute to open-source projects and enjoy collaborating with like-minded developers.  
+As I grow my skills and gain hands-on experience, I aim to craft solutions that push the boundaries of technology, while building valuable connections within the global tech community.  
+Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
+</p>
+
 <h3 align="center"> 🚀 Cloud & DevOps Engineer | Azure Data Engineer
 </h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/26c176d1385dd534062f32aa25a00b9c01bf9673923a995d3e386a418c4be019/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f6d656469612f35633832363461323062323437313135623638653663326634633937643565362e676966"
