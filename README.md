@@ -26,35 +26,23 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh277&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh277" /> </p>
 
 
-- 🔭 I’m currently working on **🌐 Enterprise-Grade Cloud-Native DevOps Platform 🎯 Goal Build an end-to-end production-ready Cloud-Native platform that covers: IaC, GitOps, CI/CD, DevSecOps, Observability, and SRE principles.**
+## 👋 About Me
 
-- 🌱 I’m currently learning **Devops, MLOPS , AZURE**
+I’m Adharsh, currently working on an **Enterprise-Grade Cloud-Native DevOps Platform** 🌐.  
+My goal is to build an end-to-end production-ready platform that encompasses **IaC, GitOps, CI/CD, DevSecOps, Observability, and SRE principles**.  
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+I am continuously learning **DevOps, MLOps, and Azure** to stay at the forefront of cloud technology.  
+I enjoy collaborating on **Cloud-Native projects** and love sharing knowledge about **Cloud Computing, DevOps practices, Docker, CI/CD, and cloud platforms like Azure, OCI, and AWS**.  
 
-- 💬 Ask me about **Cloud Computing, DevOps Practices, Docker, CI/CD, and Azure Services ,OCI, AWS**
+You can reach me at **adharshu999@gmail.com**, explore my experiences on [LinkedIn](https://www.linkedin.com/in/adharsh277/), or check out my projects on [GitHub](https://github.com/adharsh277).  
 
-- 📫 How to reach me **adharshu999@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/adharsh277/](https://www.linkedin.com/in/adharsh277/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/adharsh277](https://github.com/adharsh277)
-
-- ⚡ Fun fact **I speak German too (A1 Goethe certified) 🇩🇪**
-
+⚡ Fun fact: I also speak German (A1 Goethe certified) 🇩🇪.
 
 
 ## 🏆 GitHub Achievements & Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=adharsh277&theme=onedark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itsadharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsadharsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adharsh.u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adharsh.u" height="30" width="40" /></a>
-<a href="https://instagram.com/aadhii.x.af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadhii.x.af" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/internationalbuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="internationalbuff" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
