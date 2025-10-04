@@ -8,10 +8,20 @@ Driven by curiosity and the desire to explore the limitless potential of emergin
 As I grow my skills and gain hands-on experience, I aim to craft solutions that push the boundaries of technology, while building valuable connections within the global tech community.  
 Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
 </p>
+<div align="center">
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsadharsh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adharsh.u) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhii.x.af) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/internationalbuff)
+
+</div>
+
 
 <h3 align="center"> 🚀 Cloud & DevOps Engineer | Bussiness Analyst
 </h3>
-<img align="center" alt="coding" width="800" src="https://camo.githubusercontent.com/26c176d1385dd534062f32aa25a00b9c01bf9673923a995d3e386a418c4be019/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f6d656469612f35633832363461323062323437313135623638653663326634633937643565362e676966"
+<img align="center" alt="coding" width="1000" src="https://camo.githubusercontent.com/26c176d1385dd534062f32aa25a00b9c01bf9673923a995d3e386a418c4be019/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f6d656469612f35633832363461323062323437313135623638653663326634633937643565362e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh277&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh277" /> </p>
 
