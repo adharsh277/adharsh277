@@ -74,6 +74,23 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ---
 [![](https://visitcount.itsvg.in/api?id=adharsh277&icon=0&color=3)](https://visitcount.itsvg.in)
 
+<!-- GitHub Stats & Top Languages -->
+
+<!-- Top Languages and GitHub Stats side by side -->
+<p float="left">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" width="48%" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=dark" width="48%" />
+</p>
+
+### 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=adharsh277&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+---
+
+[![Profile Visit Count](https://visitcount.itsvg.in/api?id=adharsh277&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
 
