@@ -25,11 +25,6 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh277&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh277" /> </p>
 
-## 🏆 GitHub Achievements & Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=adharsh277&theme=onedark)
-
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -54,6 +49,13 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ![Oracle](https://img.shields.io/badge/oracle-%23f80000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Prometheus](https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+
+
+## 🏆 GitHub Achievements & Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=adharsh277&theme=onedark)
+
 
 
 <!-- GitHub Stats & Top Languages -->
