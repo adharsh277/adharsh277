@@ -58,21 +58,28 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 
 
 
-<!-- GitHub Stats & Top Languages -->
+<!-- GitHub Analytics Section -->
+<div align="center">
 
-<!-- Top Languages and GitHub Stats side by side -->
-<p float="left">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark&cache_seconds=300" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adharsh277&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+  
   <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=dark&cache_seconds=300" width="48%" />
-</p>
- 
- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adharsh277&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
+
+  <!-- Top Contributed Repos -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=adharsh277&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" height="180" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adharsh277&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Profile Visit Counter -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=adharsh277&icon=0&color=3" alt="Visitor Count" />
+  </a>
+</p>
+
 
 
