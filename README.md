@@ -49,6 +49,7 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ![Prometheus](https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+[![Adharsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adharsh277&theme=react-dark&hide_border=true)](https://github.com/adharsh277)
 
 
 ## 🏆 GitHub Achievements & Trophies
@@ -74,6 +75,6 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ---
 [![](https://visitcount.itsvg.in/api?id=adharsh277&icon=0&color=3)](https://visitcount.itsvg.in)
 
-[![Adharsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adharsh277&theme=react-dark&hide_border=true)](https://github.com/adharsh277)
+
 
 
