@@ -75,6 +75,7 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ---
 [![](https://visitcount.itsvg.in/api?id=adharsh277&icon=0&color=3)](https://visitcount.itsvg.in)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adharsh277&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
