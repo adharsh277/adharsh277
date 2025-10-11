@@ -74,3 +74,6 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ---
 [![](https://visitcount.itsvg.in/api?id=adharsh277&icon=0&color=3)](https://visitcount.itsvg.in)
 
+[![Adharsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adharsh277&theme=react-dark&hide_border=true)](https://github.com/adharsh277)
+
+
