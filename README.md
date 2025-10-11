@@ -57,7 +57,6 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ![trophy](https://github-profile-trophy.vercel.app/?username=adharsh277&theme=onedark)
 
 
-
 <!-- GitHub Analytics Section -->
 <div align="center">
 
