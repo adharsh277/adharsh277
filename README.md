@@ -40,6 +40,7 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
