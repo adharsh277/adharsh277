@@ -67,7 +67,7 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
   <img src="https://github-contributor-stats.vercel.app/api?username=adharsh277&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&_vercel_color_scheme=dark" height="180" />
   
 <!-- Top Contributed Repos (Mirror) -->
-   <img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
