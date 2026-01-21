@@ -8,7 +8,7 @@ As I grow my skills and gain hands-on experience, I aim to craft solutions that 
 Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
 </p>
 <div align="center">
-
+  
 ## 🌐 Socials
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsadharsh)
