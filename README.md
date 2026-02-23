@@ -2,7 +2,7 @@
 <h1> About </h1>
 <p>
 Hey there! I am Adharsh Unnikrishnan, a Computer Science undergrad with a strong passion for technology and innovation. 👨‍💻  
-I am fascinated by the intersection of cloud computing, DevOps, AI/ML, and cybersecurity, and I am on an exciting journey to make a meaningful impact in the tech world.  
+I am fascinated by the intersection of cloud computing, DevOps, AI/ML, and BlockChain, and I am on an exciting journey to make a meaningful impact in the tech world.  
 Driven by curiosity and the desire to explore the limitless potential of emerging technologies, I actively contribute to open-source projects and enjoy collaborating with like-minded developers.  
 As I grow my skills and gain hands-on experience, I aim to craft solutions that push the boundaries of technology, while building valuable connections within the global tech community.  
 Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
