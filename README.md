@@ -2,11 +2,10 @@
 <h1> About </h1>
 
 <p>
-Hey there! I am Adharsh Unnikrishnan, a Computer Science undergrad with a strong passion for technology and innovation. 👨‍💻  
-I am fascinated by the intersection of cloud computing, DevOps, AI/ML, and BlockChain, and I am on an exciting journey to make a meaningful impact in the tech world.  
-Driven by curiosity and the desire to explore the limitless potential of emerging technologies, I actively contribute to open-source projects and enjoy collaborating with like-minded developers.  
-As I grow my skills and gain hands-on experience, I aim to craft solutions that push the boundaries of technology, while building valuable connections within the global tech community.  
-Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
+Hey there! I’m Adharsh Unnikrishnan, a Computer Science undergraduate passionate about building and scaling modern technology systems. 👨‍💻
+My interests lie at the intersection of Cloud Computing, DevOps, AI Infrastructure, Platform Engineering, Multi-Cloud Architectures, and Blockchain. I focus on understanding how large-scale systems are designed, automated, and optimized for reliability and performance.
+Driven by curiosity, I actively explore emerging technologies, contribute to open-source projects, and collaborate with developers who are building the future of tech. I’m particularly interested in creating robust platforms, automating workflows, and enabling scalable AI-driven systems.
+As I continue to grow, my goal is to engineer impactful solutions, deepen my expertise in distributed systems, and contribute meaningfully to the global tech ecosystem.
 </p>
 <div align="center">
 🌐 Socials
@@ -17,7 +16,7 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/internationalbuff)
 </div>
 
-<h3 align="center"> Cloud & DevOps Engineer | Bussiness Analyst
+<h3 align="center"> DevOps & Platform Engineer | AI Infrastructure | Cloud & Blockchain
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh277&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh277" /> </p>
