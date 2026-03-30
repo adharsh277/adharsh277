@@ -16,7 +16,7 @@ As I continue to grow, my goal is to engineer impactful solutions, deepen my exp
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/internationalbuff)
 </div>
 
-<h3 align="center"> DevOps & Platform Engineer | AI Infrastructure | Cloud & Blockchain
+<h3 align="center"> DevOps & Platform Engineer | AI Infrastructure | Mutli-Cloud & Blockchain
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh277&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh277" /> </p>
