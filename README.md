@@ -20,11 +20,11 @@ As I continue to grow, my goal is to engineer impactful solutions, deepen my exp
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh277&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh277" /> </p>
-
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adharsh277&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adharsh277&layout=compact&theme=tokyonight)
+
 ## 📈 GitHub Stats
-![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adharsh277&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=adharsh277&show_icons=true&theme=tokyonight)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
