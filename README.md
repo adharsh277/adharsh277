@@ -7,6 +7,7 @@ Driven by curiosity, I actively explore emerging technologies, contribute to ope
 As I continue to grow, my goal is to engineer impactful solutions, deepen my expertise in distributed systems, and contribute meaningfully to the global tech ecosystem.
 </p>
 <div align="center">
+
 🌐 Socials
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsadharsh)
