@@ -6,7 +6,6 @@ My interests lie at the intersection of Cloud Computing, DevOps, AI Infrastructu
 Driven by curiosity, I actively explore emerging technologies, contribute to open-source projects, and collaborate with developers who are building the future of tech. I’m particularly interested in creating robust platforms, automating workflows, and enabling scalable AI-driven systems.
 As I continue to grow, my goal is to engineer impactful solutions, deepen my expertise in distributed systems, and contribute meaningfully to the global tech ecosystem.
 </p>
-
 <div align="center">
 
 🌐 Socials
